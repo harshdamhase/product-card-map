@@ -6,3 +6,7 @@
     margin: 10px;
     box-shadow: 0 0 10px rgb(44, 44, 44);
 }
+.emoji{
+    background-color: aliceblue;
+    padding: 5px;
+}
